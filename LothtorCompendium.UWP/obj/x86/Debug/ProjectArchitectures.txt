@@ -1,0 +1,1 @@
+D:\Visual Studio\LothtorCompendium\LothtorCompendium.UWP\LothtorCompendium.UWP.csproj;x86
